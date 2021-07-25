@@ -1,0 +1,9 @@
+.test {
+  max-width: 400px;
+}
+
+.react-pdf__Page__textContent {
+  left: 0 !important;
+  top: 0 !important;
+  transform: unset !important;
+}
