@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/dbook/static/css/main.a617e044.chunk.css",
+    "main.js": "/dbook/static/js/main.59fbb1e0.chunk.js",
+    "main.js.map": "/dbook/static/js/main.59fbb1e0.chunk.js.map",
+    "runtime-main.js": "/dbook/static/js/runtime-main.ef9a5fa3.js",
+    "runtime-main.js.map": "/dbook/static/js/runtime-main.ef9a5fa3.js.map",
+    "static/css/2.ef0e0817.chunk.css": "/dbook/static/css/2.ef0e0817.chunk.css",
+    "static/js/2.a7a95500.chunk.js": "/dbook/static/js/2.a7a95500.chunk.js",
+    "static/js/2.a7a95500.chunk.js.map": "/dbook/static/js/2.a7a95500.chunk.js.map",
+    "static/js/3.a23b8f68.chunk.js": "/dbook/static/js/3.a23b8f68.chunk.js",
+    "static/js/3.a23b8f68.chunk.js.map": "/dbook/static/js/3.a23b8f68.chunk.js.map",
+    "index.html": "/dbook/index.html",
+    "static/css/2.ef0e0817.chunk.css.map": "/dbook/static/css/2.ef0e0817.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/dbook/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a7a95500.chunk.js.LICENSE.txt": "/dbook/static/js/2.a7a95500.chunk.js.LICENSE.txt",
+    "static/js/pdf.worker.05c44de3.worker.js": "/dbook/static/js/pdf.worker.05c44de3.worker.js",
+    "static/js/pdf.worker.05c44de3.worker.js.LICENSE.txt": "/dbook/static/js/pdf.worker.05c44de3.worker.js.LICENSE.txt",
+    "static/js/pdf.worker.05c44de3.worker.js.map": "/dbook/static/js/pdf.worker.05c44de3.worker.js.map",
+    "static/media/alice.13cf694a.jpeg": "/dbook/static/media/alice.13cf694a.jpeg",
+    "static/media/alice.42a825d9.epub": "/dbook/static/media/alice.42a825d9.epub",
+    "static/media/bitcoin.61bcf4b2.pdf": "/dbook/static/media/bitcoin.61bcf4b2.pdf",
+    "static/media/die-dollar.57428b9f.jpg": "/dbook/static/media/die-dollar.57428b9f.jpg",
+    "static/media/die-dollar.849e84fd.pdf": "/dbook/static/media/die-dollar.849e84fd.pdf",
+    "static/media/moby.0a924b5d.epub": "/dbook/static/media/moby.0a924b5d.epub",
+    "static/media/moby.e3483b42.jpeg": "/dbook/static/media/moby.e3483b42.jpeg",
+    "static/media/overpopulation.1c2ad2ca.pdf": "/dbook/static/media/overpopulation.1c2ad2ca.pdf",
+    "static/media/overpopulation.6f7473ed.jpeg": "/dbook/static/media/overpopulation.6f7473ed.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef9a5fa3.js",
+    "static/css/2.ef0e0817.chunk.css",
+    "static/js/2.a7a95500.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.59fbb1e0.chunk.js"
+  ]
+}
