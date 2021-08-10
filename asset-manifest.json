@@ -1,22 +1,17 @@
 {
   "files": {
     "main.css": "/dbook/static/css/main.a617e044.chunk.css",
-    "main.js": "/dbook/static/js/main.59fbb1e0.chunk.js",
-    "main.js.map": "/dbook/static/js/main.59fbb1e0.chunk.js.map",
-    "runtime-main.js": "/dbook/static/js/runtime-main.ef9a5fa3.js",
-    "runtime-main.js.map": "/dbook/static/js/runtime-main.ef9a5fa3.js.map",
-    "static/css/2.ef0e0817.chunk.css": "/dbook/static/css/2.ef0e0817.chunk.css",
-    "static/js/2.a7a95500.chunk.js": "/dbook/static/js/2.a7a95500.chunk.js",
-    "static/js/2.a7a95500.chunk.js.map": "/dbook/static/js/2.a7a95500.chunk.js.map",
-    "static/js/3.a23b8f68.chunk.js": "/dbook/static/js/3.a23b8f68.chunk.js",
-    "static/js/3.a23b8f68.chunk.js.map": "/dbook/static/js/3.a23b8f68.chunk.js.map",
+    "main.js": "/dbook/static/js/main.2a90eebb.chunk.js",
+    "main.js.map": "/dbook/static/js/main.2a90eebb.chunk.js.map",
+    "runtime-main.js": "/dbook/static/js/runtime-main.eca62f8d.js",
+    "runtime-main.js.map": "/dbook/static/js/runtime-main.eca62f8d.js.map",
+    "static/js/2.b7286d8a.chunk.js": "/dbook/static/js/2.b7286d8a.chunk.js",
+    "static/js/2.b7286d8a.chunk.js.map": "/dbook/static/js/2.b7286d8a.chunk.js.map",
+    "static/js/3.e49c040d.chunk.js": "/dbook/static/js/3.e49c040d.chunk.js",
+    "static/js/3.e49c040d.chunk.js.map": "/dbook/static/js/3.e49c040d.chunk.js.map",
     "index.html": "/dbook/index.html",
-    "static/css/2.ef0e0817.chunk.css.map": "/dbook/static/css/2.ef0e0817.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/dbook/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a7a95500.chunk.js.LICENSE.txt": "/dbook/static/js/2.a7a95500.chunk.js.LICENSE.txt",
-    "static/js/pdf.worker.05c44de3.worker.js": "/dbook/static/js/pdf.worker.05c44de3.worker.js",
-    "static/js/pdf.worker.05c44de3.worker.js.LICENSE.txt": "/dbook/static/js/pdf.worker.05c44de3.worker.js.LICENSE.txt",
-    "static/js/pdf.worker.05c44de3.worker.js.map": "/dbook/static/js/pdf.worker.05c44de3.worker.js.map",
+    "static/js/2.b7286d8a.chunk.js.LICENSE.txt": "/dbook/static/js/2.b7286d8a.chunk.js.LICENSE.txt",
     "static/media/alice.13cf694a.jpeg": "/dbook/static/media/alice.13cf694a.jpeg",
     "static/media/alice.42a825d9.epub": "/dbook/static/media/alice.42a825d9.epub",
     "static/media/bitcoin.61bcf4b2.pdf": "/dbook/static/media/bitcoin.61bcf4b2.pdf",
@@ -28,10 +23,9 @@
     "static/media/overpopulation.6f7473ed.jpeg": "/dbook/static/media/overpopulation.6f7473ed.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef9a5fa3.js",
-    "static/css/2.ef0e0817.chunk.css",
-    "static/js/2.a7a95500.chunk.js",
+    "static/js/runtime-main.eca62f8d.js",
+    "static/js/2.b7286d8a.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.59fbb1e0.chunk.js"
+    "static/js/main.2a90eebb.chunk.js"
   ]
 }
